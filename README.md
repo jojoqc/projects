@@ -23,4 +23,4 @@ This portfolio is not just a showcase — it’s a journey through solving real 
 
 ## 📬 Connect
 - 🌐 [Portfolio Website](https://jojoqc.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/jojoqc)
+- 💼 [LinkedIn](https://linkedin.com/in/joasquintero)

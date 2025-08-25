@@ -23,4 +23,4 @@ Este portafolio no es solo una vitrina — es un recorrido por la solución de d
 
 ## 📬 Conecta
 - 🌐 [Sitio Web del Portafolio](https://jojoqc.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/jojoqc)
+- 💼 [LinkedIn](https://linkedin.com/in/joasquintero)
