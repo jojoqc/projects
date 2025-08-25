@@ -1,6 +1,6 @@
 # 🌌 My [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Project Portfolio
 
-Welcome to my **Projects Portfolio** — a curated collection of work across **Data Science, Artificial Intelligence, Backend Systems, DevOps Engineering and More**.
+Welcome to my **Project Portfolio** — a curated collection of work across **Data Science, Artificial Intelligence, Backend Systems, DevOps Engineering and More**.
 
 🌐 Available Languages 
 - [🇬🇧/🇺🇸 English](./README.md) 
