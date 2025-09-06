@@ -1,26 +1,26 @@
-#  Mi [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Portafolio de Proyectos
+# ⚙️ Ciencia de Datos & 🤖 Machine Learning
 
-Bienvenido a mi **Portafolio de Proyectos** — una colección de trabajos en **Ciencia de Datos, Inteligencia Artificial, Sistemas Backend, DevOps y más**.
+Este repositorio reúne diferentes proyectos de **Ciencia de Datos y Machine Learning**, pensados para mostrar cómo se trabaja con datos en un flujo completo:  
+desde obtenerlos y limpiarlos, hasta entrenar modelos, evaluarlos y llevarlos a un entorno real de producción.  
 
-🌐 Idiomas Disponibles
-- [🇬🇧/🇺🇸 English](./README.md) 
-- [🇪🇸 Español](./README.es.md)
+En la parte de **Ciencia de Datos**, encontrarás proyectos que cubren:  
+- **Análisis exploratorio (EDA)**: entender los datos, limpiarlos y transformarlos.  
+- **Visualización**: usar gráficos y dashboards para comunicar hallazgos de manera clara.  
+- **Pipelines de datos**: procesos reproducibles para preparar y organizar la información.  
 
-## 🧭 Explorar por área
-Navega directamente al dominio que más te interese:
+En la parte de **Machine Learning**, el enfoque está en aplicar distintos tipos de modelos para resolver problemas reales:  
+- **Modelos supervisados** (regresión y clasificación).  
+- **Modelos no supervisados** (clustering, reducción de dimensionalidad).  
+- **Deep Learning** para visión por computadora y procesamiento de lenguaje natural (NLP), Etc.  
+- **Optimización y validación** para asegurar que los modelos sean confiables y no solo funcionen en teoría.  
 
-- 📊 **[Ciencia de Datos](./data-science/)** → Analítica avanzada, modelos predictivos, tableros de visualización y [Mas!](./data-science/).
+También hay un espacio para prácticas de **MLOps**, que incluyen experimentación controlada, versionado de modelos, despliegue de APIs y automatización con contenedores, para que las soluciones no se queden en notebooks, sino que puedan usarse en proyectos reales.  
 
-- 🤖 **[Inteligencia Artificial](./artificial-intelligence/)** → Deep Learning, Machine Learning, NLP, sistemas inteligentes y [Mucho mas!](./artificial-intelligence/).
+Este repositorio busca ser una mezcla entre lo **práctico** y lo **técnico**, mostrando cómo llevar una idea con datos desde cero hasta algo que realmente se pueda usar. 🚀  
 
-- ⚙️ **[Sistemas Backend](./backend/)** → APIs, microservicios, integraciones ERP, arquitecturas escalables y [Muchisimo mas!](./backend/).
+## 🔧 Tecnologías utilizadas
+-
 
-- 🚀 **[Ingeniería DevOps](./devops/)** → Pipelines CI/CD, observabilidad, automatización en la nube y [Muchisisisimo mas!](./devops/).
+## 📂 Contenido
+-
 
-
-## ⚡ Más Allá del Código
-Este portafolio no es solo una vitrina — es un recorrido por la solución de desafíos reales. Desde la creación de sistemas inteligentes hasta la ingeniería de infraestructuras resilientes, cada proyecto refleja un compromiso con la claridad, la eficiencia y el impacto. Se trata de construir tecnología que realmente importa.
-
-## 📬 Conecta
-- 🌐 [Sitio Web del Portafolio](https://jojoqc.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/joasquintero)

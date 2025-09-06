@@ -1,26 +1,26 @@
-# 🌌 My [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Project Portfolio
+# ⚙️ Data Science & 🤖 Machine Learning
 
-Welcome to my **Project Portfolio** — a curated collection of work across **Data Science, Artificial Intelligence, Backend Systems, DevOps Engineering and More**.
+This repository brings together different **Data Science and Machine Learning** projects, designed to show how to work with data in a complete workflow:  
+from collecting and cleaning data, to training models, evaluating them, and deploying them into real production environments.  
 
-🌐 Available Languages 
-- [🇬🇧/🇺🇸 English](./README.md) 
-- [🇪🇸 Español](./README.es.md)
+On the **Data Science** side, you’ll find projects that cover:  
+- **Exploratory Data Analysis (EDA)**: understanding, cleaning, and transforming data.  
+- **Visualization**: using charts and dashboards to clearly communicate insights.  
+- **Data Pipelines**: reproducible processes to prepare and organize information.  
 
-## 🧭 Explore by Domain 
-Navigate directly to the area that matters to you:
+On the **Machine Learning** side, the focus is on applying different types of models to solve real-world problems:  
+- **Supervised models** (regression and classification).  
+- **Unsupervised models** (clustering, dimensionality reduction).  
+- **Deep Learning** for computer vision and natural language processing (NLP), etc.  
+- **Optimization and validation** to ensure models are reliable and not just good on paper.  
 
-- 📊 **[Data Science](./data-science/)** → Advanced analytics, predictive models, visualization dashboards.
+There’s also a space for **MLOps** practices, including controlled experimentation, model versioning, API deployment, and container-based automation, so solutions don’t just stay in notebooks but can actually be used in real projects.  
 
-- 🤖 **[Artificial Intelligence](./artificial-intelligence/)** → Deep learning, Machine Learning, NLP, intelligent systems.
-
-- ⚙️ **[Backend Systems](./backend/)** → APIs, microservices, ERP integrations, scalable architectures.
-
-- 🚀 **[DevOps Engineering](./devops/)** → CI/CD pipelines, observability stacks, cloud automation.
+This repository aims to be a mix of both **practical** and **technical**, showing how to take a data-driven idea from scratch and turn it into something truly usable. 🚀  
 
 
-## ⚡ Beyond the Code
-This portfolio is not just a showcase — it’s a journey through solving real challenges. From creating intelligent systems to engineering resilient infrastructures, every project reflects a commitment to clarity, efficiency, and impact. It’s about building technology that truly matters.
+## 🔧 Technologies used
+-
 
-## 📬 Connect
-- 🌐 [Portfolio Website](https://jojoqc.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/joasquintero)
+## 📂 Content
+-
