@@ -1,4 +1,4 @@
-# ⚙️ Ciencia de Datos & 🤖 Machine Learning
+# 📊 Ciencia de Datos & 🤖 Machine Learning
 
 Este repositorio reúne diferentes proyectos de **Ciencia de Datos y Machine Learning**, pensados para mostrar cómo se trabaja con datos en un flujo completo:  
 desde obtenerlos y limpiarlos, hasta entrenar modelos, evaluarlos y llevarlos a un entorno real de producción.  

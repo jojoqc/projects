@@ -1,4 +1,4 @@
-# ⚙️ Data Science & 🤖 Machine Learning
+# 📊 Data Science & 🤖 Machine Learning
 - [🇪🇸 Español](./README.es.md)
 
 This repository brings together different **Data Science and Machine Learning** projects, designed to show how to work with data in a complete workflow:  
