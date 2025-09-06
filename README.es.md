@@ -9,9 +9,9 @@ Bienvenido a mi **Portafolio de Proyectos** — una colección de trabajos en **
 ## 🧭 Explorar por área
 Navega directamente al dominio que más te interese:
 
-- 📊 **[Ciencia de Datos](./data-science/)** → Analítica avanzada, modelos predictivos, tableros de visualización y [Mas!](./data-science/).
+- 📊 **[Ciencia de Datos](./data-science-ml/)** → Analítica avanzada, modelos predictivos, tableros de visualización y [Mas!](./data-science-ml/).
 
-- 🤖 **[Inteligencia Artificial](./artificial-intelligence/)** → Deep Learning, Machine Learning, NLP, sistemas inteligentes y [Mucho mas!](./artificial-intelligence/).
+- 🤖 **[Inteligencia Artificial](./data-science-ml/)** → Inteligencia Artificial, Deep Learning, Machine Learning, NLP, sistemas inteligentes y [Mucho mas!](./data-science-ml/).
 
 - ⚙️ **[Sistemas Backend](./backend/)** → APIs, microservicios, integraciones ERP, arquitecturas escalables y [Muchisimo mas!](./backend/).
 

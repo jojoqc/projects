@@ -9,9 +9,9 @@ Welcome to my **Project Portfolio** — a curated collection of work across **Da
 ## 🧭 Explore by Domain 
 Navigate directly to the area that matters to you:
 
-- 📊 **[Data Science](./data-science/)** → Advanced analytics, predictive models, visualization dashboards.
+- 📊 **[Data Science](./data-science-ml/)** → Advanced analytics, predictive models, visualization dashboards.
 
-- 🤖 **[Artificial Intelligence](./artificial-intelligence/)** → Deep learning, Machine Learning, NLP, intelligent systems.
+- 🤖 **[Artificial Intelligence](./data-science-ml/)** → Artificial Intelligence, Deep learning, Machine Learning, NLP, intelligent systems.
 
 - ⚙️ **[Backend Systems](./backend/)** → APIs, microservices, ERP integrations, scalable architectures.
 
