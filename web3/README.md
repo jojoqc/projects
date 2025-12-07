@@ -1,6 +1,7 @@
 # 🏗️ Web3 Project Portfolio
 
-This repository serves as a curated index of my Web3 development experience. Each project is an independent repository, linked below with key details and learnings.
+This repository serves as a snapshot of my journey and hands-on work in Web3 development.
+Each project is an independent repository, linked below with key details and learnings.
 
 ### Focus Areas
 - **Smart Contract Development**
@@ -20,7 +21,5 @@ This repository serves as a curated index of my Web3 development experience. Eac
 
 
 ## 🚀 Projects
-
-*No projects added yet.*
 
 ---

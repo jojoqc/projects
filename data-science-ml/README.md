@@ -1,6 +1,7 @@
 # 📊 Data Science & 🤖 Machine Learning Portfolio
 
-This repository serves as a curated index of my data science and machine learning projects. Each project is an independent repository, linked below with key details and learnings.
+This repository directly documents my hands-on work in Data Science and Machine Learning.
+Each project is an independent repository, linked below with concrete details and technical learnings.
 
 ### Focus Areas
 - **Machine Learning**

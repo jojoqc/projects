@@ -1,6 +1,7 @@
 # 🚀 Backend Development Portfolio
 
-This repository serves as a curated index of my backend development experience. Each project is an independent repository, linked below with key details and learnings.
+This repository directly documents my hands-on work in Backend Development.
+Each project is an independent repository, linked below with concrete details and technical learnings.
 
 ### Focus Areas
 - **API Development**
